@@ -2,6 +2,8 @@
 
 (CVPR 2023) HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion
 
+https://arxiv.org/abs/2304.00932
+
 ** **
 
 You can also view at https://youtu.be/qplZMOZG-7k
