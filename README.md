@@ -6,7 +6,8 @@
 
 You can also view at https://youtu.be/qplZMOZG-7k
 
-💥💥:racehorse::racehorse:We have refined the code structure. This new version can run at **80FPS** on NVIDIA 3090 GPU or **150FPS** on NVIDIA 4090 GPU! 
+💥💥:racehorse::racehorse: 
+We have refined the code structure. This new version can run at **80FPS** on NVIDIA 3090 GPU or **150FPS** on NVIDIA 4090 GPU! 
 
 - Requirements
 
