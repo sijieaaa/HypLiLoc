@@ -1,0 +1,11 @@
+colour_demosaicing==0.2.2
+geotorch==0.3.0
+matplotlib==3.5.3
+numpy==1.19.5
+open3d==0.15.2
+opencv_python==4.6.0.66
+Pillow==9.3.0
+scipy==1.9.1
+setuptools==63.4.1
+tqdm==4.64.0
+transforms3d==0.4.1
