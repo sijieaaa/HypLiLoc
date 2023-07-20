@@ -4,6 +4,8 @@
 
 https://arxiv.org/abs/2304.00932
 
+https://openaccess.thecvf.com/content/CVPR2023/html/Wang_HypLiLoc_Towards_Effective_LiDAR_Pose_Regression_With_Hyperbolic_Fusion_CVPR_2023_paper.html
+
 ** **
 
 You can also view at https://youtu.be/qplZMOZG-7k
