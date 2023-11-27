@@ -97,11 +97,12 @@ We have refined the code structure. This new version can run at **80FPS** on NVI
 - Citation
 
   ```
-  @InProceedings{wang2023hypliloc,
-        title={HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion}, 
-        author={Wang, Sijie and Kang, Qiyu and She, Rui and Wang, Wei and Zhao, Kai and Song, Yang and Tay, Wee Peng},
-        booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-        year={2023}
+  @inproceedings{wang2023hypliloc,
+    title={HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion},
+    author={Wang, Sijie and Kang, Qiyu and She, Rui and Wang, Wei and Zhao, Kai and Song, Yang and Tay, Wee Peng},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={5176--5185},
+    year={2023}
   }
   ```
 
