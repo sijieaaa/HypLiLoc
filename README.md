@@ -61,7 +61,7 @@ We have refined the code structure. This new version can run at **80FPS** on NVI
 
   https://drive.google.com/file/d/1diGYIxsmFk-CVK0VJXVrBrIVXeRuSHnp/view?usp=share_link
 
-  https://entuedu-my.sharepoint.com/:u:/g/personal/wang1679_e_ntu_edu_sg/EQFyo8zHbPpHoTctLqJwqhgBiy4taCVSPp_fMPZl-2MF5A?e=6VgFRr
+  https://entuedu-my.sharepoint.com/:f:/g/personal/wang1679_e_ntu_edu_sg/ErUKcK5bIKdDkCzGUoWs4ZcBsI4YiRXDVdCJx0CQ0qvoZQ?e=kHUlPE
 
   After downloading, you can unzip it and record the path, e.g.
 
